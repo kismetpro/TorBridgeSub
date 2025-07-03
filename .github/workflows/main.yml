@@ -2,7 +2,7 @@ name: Fetch Tor WebTunnel Bridges
 
 on:
   schedule:
-    - cron: '0 2 * * *'  # 每天 UTC 02:00 执行一次
+    - cron: '*/5 * * * *'  # 每 5 分钟执行一次（UTC 时间）
   workflow_dispatch:
 
 jobs:
