@@ -21,14 +21,13 @@ jobs:
       - name: Install dependencies
         run: pip install requests beautifulsoup4 fake-useragent
 
-      - name: Fetch and clean bridge text
+      - name: Fetch and save WebTunnel bridges
         run: |
           mkdir -p output
           python <<'EOF'
           import requests
           from bs4 import BeautifulSoup
           from fake_useragent import UserAgent
-          from datetime import datetime
           import time
           import random
 
@@ -66,20 +65,18 @@ jobs:
           lines = bridgelines_div.get_text(separator="\n").splitlines()
           bridge_lines = "\n".join(line.strip() for line in lines if line.strip())
 
-          filename = datetime.utcnow().strftime("output/%Y-%m-%d_%H-%M-%S.txt")
-
-          with open(filename, "w") as f:
+          with open("output/WebTunnel.txt", "w") as f:
               f.write(bridge_lines)
 
-          print(f"Saved bridge lines to {filename}")
+          print("Saved bridge lines to output/WebTunnel.txt")
           EOF
 
-      - name: Commit and push bridge file
+      - name: Commit and push updated bridge file
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add output/
-          git commit -m "Add bridge file on $(date -u '+%Y-%m-%d %H:%M:%S')" || echo "No changes"
+          git add output/WebTunnel.txt
+          git commit -m "Update WebTunnel.txt on $(date -u '+%Y-%m-%d %H:%M:%S')" || echo "No changes"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
