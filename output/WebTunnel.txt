@@ -1,2 +1,2 @@
-webtunnel [2001:db8:e6eb:7a2f:a859:c47:4364:cc1f]:443 F8E6DE838D5E41E05A0744ED4DBCE8C40513EB45 url=https://no2.nexusocean.org ver=0.0.1
-webtunnel [2001:db8:ecb1:103a:4cd2:9747:f08d:757a]:443 7221AA7B6146D7762963D4DFB5F86618C48FE290 url=https://c.2jl.cc ver=0.0.1
+webtunnel [2001:db8:7567:150e:f9a3:aa9b:b780:b8c8]:443 EA1BADD195B10F51E14A3A23444615F5F45CE9E0 url=https://oglilouhn.dedyn.io/36CjK6AA36FlAzjC3yMhoLCeqCIKHIWSGQ61w8uI7CwcirWBSJLw0oShwOn ver=0.0.1
+webtunnel [2001:db8:ece6:a97f:c608:ac46:d9d5:af74]:443 2CF5232525187101F49ED9ED7A75678DA920EB6E url=https://nextcloud.kiljan.org/v4bpkQtAiqV9QfdKda54PXAI ver=0.0.1
