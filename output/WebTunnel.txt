@@ -1,2 +1,2 @@
-webtunnel [2001:db8:cc50:fa:264f:d1b8:79a:6a81]:443 38C7ADB125A7AEA7A668C5AE300F6DCEA6BFB340 url=https://surf.mysticboarding.cz/S2vNtMmDc72E3uSmAroQaUyj ver=0.0.1
-webtunnel [2001:db8:4dce:3e6b:32a3:a054:788c:d7f0]:443 339281F7912780D8A7FB118A48A65FFBF92F043F url=https://mwumba.com/9f2jjnAR9LR1fInBy60tbS57 ver=0.0.2
+webtunnel [2001:db8:e73c:13d:2f1d:1d27:5531:a599]:443 FEFBF3C7503830E89234F91154CC1964FFF701A2 url=https://nl.808.re/rzK3UEX7Xx3RhGiXGgZ5gJpG ver=0.0.2
+webtunnel [2001:db8:7171:e398:cd24:ab68:48e:3fcc]:443 96A26D40171B440A046AE38CFF78F4F5BB0C4F44 url=https://thegitcode.top/Chie1Yo9thoofa3 ver=0.0.1
