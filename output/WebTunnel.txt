@@ -1,2 +1,2 @@
+webtunnel [2001:db8:e6eb:7a2f:a859:c47:4364:cc1f]:443 F8E6DE838D5E41E05A0744ED4DBCE8C40513EB45 url=https://no2.nexusocean.org ver=0.0.1
 webtunnel [2001:db8:ecb1:103a:4cd2:9747:f08d:757a]:443 7221AA7B6146D7762963D4DFB5F86618C48FE290 url=https://c.2jl.cc ver=0.0.1
-webtunnel [2001:db8:2d5a:d621:5449:a5b7:2aeb:152a]:443 5CF46063D197073DBAE982D7E953738766799D0E url=https://s.dont.icu ver=0.0.1
