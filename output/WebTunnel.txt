@@ -1,2 +1,2 @@
+webtunnel [2001:db8:4c9a:ffe8:70f8:d5af:a8f1:cf56]:443 DA1ECF055635C1A6ED7F5B5F36296A5E3015CE57 url=https://1axfa6xb.xoomlia.com/6qtxxkjw/ ver=0.0.1
 webtunnel [2001:db8:a8b5:9d82:9ae6:354f:671:e5da]:443 E3AE862BBB49EA5FACF4FDF09C8F1FE0D6F3CE4B url=https://d.img-cdn.net/mExFXMqeh1PcoDRRyz/ ver=0.0.1
-webtunnel [2001:db8:82bb:9797:28:8f8c:9f22:3819]:443 A09B3B0794B87D61F055A35C42FD9C3AE61C8168 url=https://cdn-24.triplebit.dev/ltEw6VdiVdI4PiBeq4fjz4yn ver=0.0.2
