@@ -1,2 +1,2 @@
-webtunnel [2001:db8:8334:d3bf:4a0b:86b1:e2b6:a59c]:443 98455BF447EE853891921A5179B23C748F5DFCC7 url=https://e.img-cdn.net/BjUJxiqz5vi8E6WvDE/ ver=0.0.1
-webtunnel [2001:db8:1fc0:eebe:5e6e:d6ee:f53e:6889]:443 4A3859C089DF40A4FFADC10A79DFEBE4F8272535 url=https://verry.org/K2A2utQIMou4Ia2WjVseyDjV ver=0.0.2
+webtunnel [2001:db8:b260:52a8:6a2:a93a:6c69:8fcb]:443 2307A05F4EA0E8E215100D3934157213E564AE7E url=https://z.igrp.site/eg9PbqaxSvIbjtbVZMt9H7xF ver=0.0.1
+webtunnel [2001:db8:75db:c6f2:1dae:121:7a04:9e9d]:443 4B673DF159CFC12AC91FC2E6AC3047FF2183FCEA url=http://freifunk.ckgc.de/xBKEzZunnc3A5pcf6jaeVyPL ver=0.0.1
