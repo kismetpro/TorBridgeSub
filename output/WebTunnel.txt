@@ -1,2 +1,2 @@
-webtunnel [2001:db8:a62f:3205:a2b8:80f2:8491:9497]:443 CDCF334F257ACAD04A2C6CD9725B7FC686160912 url=https://meskio.net/eCDFZe3boSv+b2iqHiaY4ZgPxXBc ver=0.0.1
-webtunnel [2001:db8:c525:22a6:6b6a:e916:9ef7:8152]:443 8A1EE5824071CA39E7D76BD579FB2AEF2B52E524 url=https://c.img-cdn.net/yE4s7KehTFyj/ ver=0.0.1
+webtunnel [2001:db8:63b4:6bd7:a357:7858:898e:718c]:443 059AEB126918A33B8246E8136D565FF57753D5CF url=https://alwaysnewbie.eu.org/homesweethome ver=0.0.1
+webtunnel [2001:db8:77dc:4180:2d73:7fda:59f4:5284]:443 6F6C8E0069880AC253704507119464CE4BD1BA65 url=https://dev-test.catcat.pictures/Fj7VnJi1mjigUKBb2rJ1TeWJ ver=0.0.2
