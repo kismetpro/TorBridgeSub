@@ -1,2 +1,2 @@
+webtunnel [2001:db8:478b:ae89:51bf:9af7:3576:b7b7]:443 76A48CD150165E281E80676267919BB734151680 url=https://cool110.xyz/Cn4J4GAUglhVcUKeMEkQJt7L ver=0.0.1
 webtunnel [2001:db8:3c2a:2d1c:6e06:549c:72ac:bfc0]:443 5F55B60FF2AEA996B5109BC338FC5F2BCA696F52 url=https://cloudstreamingcdn.website/Iej1bootoo9ef4A ver=0.0.1
-webtunnel [2001:db8:1069:9ea2:fb3e:623e:65ca:d05a]:443 517C1460F4B76DF1510749F4322F4E3E8F298A77 url=https://yourdomain/and/path ver=0.0.2
