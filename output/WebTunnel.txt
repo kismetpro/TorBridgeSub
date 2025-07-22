@@ -1,2 +1,2 @@
-webtunnel [2001:db8:8e1c:d9d4:e257:62a:70db:6e1d]:443 9BB2917363960C7D8B93B44E1B5575A1539E3839 url=https://productionassets.website/aiquee1ueRoo7ac ver=0.0.1
-webtunnel [2001:db8:6058:da1e:73ae:7895:269d:65e8]:443 55F0AFE5713A0ECC4EFBE654031ED0DB3FC6482B url=https://wtb002.unshakled.net/O6pZlZqf63zx4k1fIBLWSDu0 ver=0.0.1
+webtunnel [2001:db8:5358:29a0:7290:1277:6e0a:717d]:443 708E39FB263E311F6F64A933D0B54750CD608131 url=https://2jl.cc ver=0.0.1
+webtunnel [2001:db8:f104:6599:bd56:6b9e:de19:9c5c]:443 84CD9FC75D2D777D93E08EC58293869DE374C67A url=https://webtunnel.defencegeeks.net/a36ZOiwo5I5qocKQ3SBJwNkT ver=0.0.1
