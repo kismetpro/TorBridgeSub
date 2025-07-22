@@ -1,2 +1,2 @@
-webtunnel [2001:db8:3c2a:2d1c:6e06:549c:72ac:bfc0]:443 5F55B60FF2AEA996B5109BC338FC5F2BCA696F52 url=https://cloudstreamingcdn.website/Iej1bootoo9ef4A ver=0.0.1
-webtunnel [2001:db8:1069:9ea2:fb3e:623e:65ca:d05a]:443 517C1460F4B76DF1510749F4322F4E3E8F298A77 url=https://yourdomain/and/path ver=0.0.2
+webtunnel [2001:db8:f104:6599:bd56:6b9e:de19:9c5c]:443 84CD9FC75D2D777D93E08EC58293869DE374C67A url=https://webtunnel.defencegeeks.net/a36ZOiwo5I5qocKQ3SBJwNkT ver=0.0.1
+webtunnel [2001:db8:a634:bf27:a89e:4:2de:cb6]:443 8943BF53C9561C75A7302ED59575EF71E2B26562 url=https://fast.heelsn.eu/MsCfO3oc0rCsRkzDbZw8G8bT ver=0.0.2
