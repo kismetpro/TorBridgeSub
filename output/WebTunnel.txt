@@ -1,2 +1,2 @@
-webtunnel [2001:db8:ae49:afd7:ffdc:5de:b0b9:740c]:443 AFFCC2EBEF1955CBC7B9414B71AF733AD2EB78F2 url=https://onethirtyseven.chummer.online/pz26xsQ41QjRwkFSQ4m29vRx ver=0.0.1
-webtunnel [2001:db8:5b8a:4dc6:c5c:2f14:7828:7ddd]:443 687D226FE25FBD338811EB1A5F47E15C3BFE43BC url=https://soy.institute/1cSUqqNEL5pn8R0pTEjeQRhI ver=0.0.1
+webtunnel [2001:db8:ba30:5074:c2e6:663:42e8:de84]:443 6C3C97ECF9D5984838CCFA4774C25E281E87E9D6 url=https://dns.rawbit.ninja/jbsEXCoUvbZLbd3taETimEfM ver=0.0.2
+webtunnel [2001:db8:8d16:cb5b:d7f5:504b:8768:bdd3]:443 570FEB15763CC623146E8433ACA751948A6756D4 url=https://pl.808.re/SDglNGoixITem7ZHxQKXSscK ver=0.0.2
