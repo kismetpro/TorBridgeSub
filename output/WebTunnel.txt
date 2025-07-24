@@ -1,2 +1,2 @@
-webtunnel [2001:db8:65db:574:530c:566e:7453:2e80]:443 1696D0A7C5994460B73E9A0FD853B3887388F6B0 servername=otus.ru url=http://45-134-48-239.nip.io/api/v1/ ver=0.0.1
 webtunnel [2001:db8:f55d:9607:2c09:5e8c:32de:9a7f]:443 F1CF5DE3C36E879573C87295017AE25E60183EEA url=https://stream.lacka.day ver=0.0.1
+webtunnel [2001:db8:44:614b:42f5:f87c:7072:151]:443 F0C55D7B465C94F71A9A8F0479073BC02565DA36 url=https://quantentoast.de/CDgakmo0QO5Rvo2jRCtu4n9D ver=0.0.1
