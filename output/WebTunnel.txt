@@ -1,2 +1,2 @@
-webtunnel [2001:db8:44:614b:42f5:f87c:7072:151]:443 F0C55D7B465C94F71A9A8F0479073BC02565DA36 url=https://quantentoast.de/CDgakmo0QO5Rvo2jRCtu4n9D ver=0.0.1
-webtunnel [2001:db8:ac6c:70d4:93a9:8772:dd93:e888]:443 4DE72BAFCE2B0F2C1D72304719D9D6867DF522ED url=https://meetsoftcode.click/oothexee7Hoote2 ver=0.0.1
+webtunnel [2001:db8:ad06:78fb:2db7:e529:2e65:9a47]:443 1696D0A7C5994460B73E9A0FD853B3887388F6B0 url=https://st.mfc-krsulin.ru/api/v1/ ver=0.0.1
+webtunnel [2001:db8:5f24:a703:dbde:bec8:d285:d600]:443 EFCEA1B038931F73BA155FE1E5945BCEBD62212C url=https://ttt.enerhome.site/ttt_TOR_Cjy8764jkUtopY ver=0.0.1
