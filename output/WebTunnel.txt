@@ -1,2 +1,2 @@
-webtunnel [2001:db8:4214:3f1:32a8:7914:4181:1321]:443 1CADB5C035EAA3D9D194413BE7E43884D1BFF780 url=https://tor.qinsbro.com/KPS0undKs3dFa7KFpWrunOuT ver=0.0.1
 webtunnel [2001:db8:cb62:8f57:5a43:d9d0:a488:27e2]:443 16D0EF186DA080CE7A4968072920E08CA7729AED url=https://distributedcontent.website/ahxabaic5Opheir ver=0.0.1
+webtunnel [2001:db8:65db:574:530c:566e:7453:2e80]:443 1696D0A7C5994460B73E9A0FD853B3887388F6B0 servername=otus.ru url=http://45-134-48-239.nip.io/api/v1/ ver=0.0.1
