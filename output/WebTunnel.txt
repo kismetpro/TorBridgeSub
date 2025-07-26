@@ -1,2 +1,2 @@
-webtunnel [2001:db8:c302:702c:3189:89bf:286c:4d91]:443 7D0DDEB5E808655EDB6CD6252DBA5E061FE0AC07 url=https://ecdsa.tech/K3nMo5KZSByDA6KEJIbdbzHD ver=0.0.2
-webtunnel [2001:db8:bd88:ba8c:31d5:5bfc:e398:e22a]:443 5C416460CA3D1C72F89EAA654B668CE58943F1E0 url=https://www.readthefinemanual.net/LTi1BwOcMQmZ2kCGl1CK9plm ver=0.0.1
+webtunnel [2001:db8:d356:23c3:ee0d:5a35:271a:30e]:443 40254C3F76F126C8D30C5FCEEAF9CE88C335FE0C url=https://1-cvt.sports-streams.org/4amFA6F3SRQ1HU47U5jSrLPU ver=0.0.1
+webtunnel [2001:db8:241b:a34e:64af:268f:ba0f:4b65]:443 233ABF8B1A65676DD31A4EE644635FF87D19E171 url=https://2cold.independentlyreview.com/Tor_WebTunnel ver=0.0.2
