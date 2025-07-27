@@ -1,2 +1,2 @@
-webtunnel [2001:db8:a434:2cba:55cb:15a6:1ece:1374]:443 630AABF104AEF8CFEC9AADA366F1955A1F7054BF url=https://3122.null-f.org/smBcouaVMbpJZiBeZudubD5p ver=0.0.1
 webtunnel [2001:db8:b452:7389:e4dd:990:c3b9:d99e]:443 32E4FE7D3D76E1C301FA692D1BC74A4D0E06783A url=https://no1.nexusocean.org ver=0.0.1
+webtunnel [2001:db8:a379:1522:ea89:9c9d:59c8:1d5a]:443 B55A418B4F30181ED304EB2698EE58D283BEE5BF url=https://mirror.sanin.dev/f6VK8vgUKiq3HX6FHdbQpUaa ver=0.0.1
