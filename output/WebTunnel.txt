@@ -1,2 +1,2 @@
-webtunnel [2001:db8:b452:7389:e4dd:990:c3b9:d99e]:443 32E4FE7D3D76E1C301FA692D1BC74A4D0E06783A url=https://no1.nexusocean.org ver=0.0.1
-webtunnel [2001:db8:a379:1522:ea89:9c9d:59c8:1d5a]:443 B55A418B4F30181ED304EB2698EE58D283BEE5BF url=https://mirror.sanin.dev/f6VK8vgUKiq3HX6FHdbQpUaa ver=0.0.1
+webtunnel [2001:db8:3099:ba43:4140:4d47:439f:9e46]:443 6108EC343554D32AA249A923B063DF53E8F542A7 url=https://gotland.digital/O9uoLJE6S1vADGAgA2QC9WOx ver=0.0.1
+webtunnel [2001:db8:60bb:a5e8:aa6b:6472:ab33:27b7]:443 DEC83BCC768236DA5F07E377B4A5C6A7E2638B18 url=https://oneforty.chummer.online/e2xrr8hjW2rRjUMsb6jdNoj6 ver=0.0.1
