@@ -1,2 +1,2 @@
-webtunnel [2001:db8:3099:ba43:4140:4d47:439f:9e46]:443 6108EC343554D32AA249A923B063DF53E8F542A7 url=https://gotland.digital/O9uoLJE6S1vADGAgA2QC9WOx ver=0.0.1
-webtunnel [2001:db8:60bb:a5e8:aa6b:6472:ab33:27b7]:443 DEC83BCC768236DA5F07E377B4A5C6A7E2638B18 url=https://oneforty.chummer.online/e2xrr8hjW2rRjUMsb6jdNoj6 ver=0.0.1
+webtunnel [2001:db8:2ce3:75bd:2da:f69f:d97a:7874]:443 CFB5DD5A5CC4AAB0435C1C5B27D46C0E2AB54C6E url=https://sexgrueselbox.ch/Tha8Iequ4Goo9ku ver=0.0.1
+webtunnel [2001:db8:2b58:9764:2fcf:67a0:1d1d:b622]:443 9255D4ADB05B7F8792E49779E4DF382BF7B2BE01 url=https://3124.null-f.org/KFfqlXliDgBsyHEtT0SKO1i5 ver=0.0.1
