@@ -30,6 +30,7 @@ jobs:
           from fake_useragent import UserAgent
           import time
           import random
+          import os
 
           def fetch_page(url, max_retries=5):
               ua = UserAgent()
@@ -63,12 +64,17 @@ jobs:
               raise RuntimeError("Bridge lines not found.")
 
           lines = bridgelines_div.get_text(separator="\n").splitlines()
-          bridge_lines = "\n".join(line.strip() for line in lines if line.strip())
+          bridge_lines = "\n".join(line.strip() for line in lines if line.strip()).strip()
+
+          # 关键修改：检查是否无可用网桥
+          if "no bridges available" in bridge_lines.lower():
+              print("⚠️ No bridges available! Preserving existing file.")
+              exit(0)  # 正常退出，不更新文件
 
           with open("output/WebTunnel.txt", "w") as f:
               f.write(bridge_lines)
 
-          print("Saved bridge lines to output/WebTunnel.txt")
+          print("✅ Saved new bridge lines to output/WebTunnel.txt")
           EOF
 
       - name: Commit and push updated bridge file
@@ -76,7 +82,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add output/WebTunnel.txt
-          git commit -m "Update WebTunnel.txt on $(date -u '+%Y-%m-%d %H:%M:%S')" || echo "No changes"
-          git push
+          git commit -m "Update WebTunnel.txt on $(date -u '+%Y-%m-%d %H:%M:%S')" || echo "🟢 No changes to commit"
+          git push || echo "🟢 Nothing to push"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
