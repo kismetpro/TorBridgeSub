@@ -1,2 +1,2 @@
-webtunnel [2001:db8:d3e0:e4e:ea8c:f13c:4b74:6c15]:443 ECE165E6510C15D4EA814D32B17D6A2E4A56938A url=https://cdn-46.triplebit.dev/beaXo6cho1eil2ai ver=0.0.2
-webtunnel [2001:db8:259c:faa6:24a9:cce0:c60f:4642]:443 23958FC105E58061AFD2DECC61D363F28AB36490 url=https://pod02.oneclickhost.eu/lzcHh4sbo8bOTwkc4IwkSxNS ver=0.0.2
+webtunnel [2001:db8:741a:a577:74de:b52:54eb:b816]:443 773874BFA23A8A1A1DB8929A29889B81CEFEBDED url=https://www.langly.fr/yolo ver=0.0.1
+webtunnel [2001:db8:692a:d46b:4a9b:a6e5:faf5:bf05]:443 7592622583CEAFA406D4C0AA69BB4CC948F5F7D3 url=https://www.papermoe.sbs/CiA0ijJotk3slKZBW6I6P2rQFgEEaF ver=0.0.2
