@@ -1,2 +1,2 @@
-webtunnel [2001:db8:7567:150e:f9a3:aa9b:b780:b8c8]:443 EA1BADD195B10F51E14A3A23444615F5F45CE9E0 url=https://oglilouhn.dedyn.io/36CjK6AA36FlAzjC3yMhoLCeqCIKHIWSGQ61w8uI7CwcirWBSJLw0oShwOn ver=0.0.1
-webtunnel [2001:db8:ece6:a97f:c608:ac46:d9d5:af74]:443 2CF5232525187101F49ED9ED7A75678DA920EB6E url=https://nextcloud.kiljan.org/v4bpkQtAiqV9QfdKda54PXAI ver=0.0.1
+webtunnel [2001:db8:b016:224d:7130:79df:9397:c1aa]:443 4C26D2BA24011E89875857BDB338969D08CAAE0B url=https://notalot.org/aJXNuaxTnNy72HW5tjuODXN4 ver=0.0.2
+webtunnel [2001:db8:7171:e398:cd24:ab68:48e:3fcc]:443 96A26D40171B440A046AE38CFF78F4F5BB0C4F44 url=https://thegitcode.top/Chie1Yo9thoofa3 ver=0.0.1
