@@ -1,2 +1,2 @@
-webtunnel [2001:db8:b016:224d:7130:79df:9397:c1aa]:443 4C26D2BA24011E89875857BDB338969D08CAAE0B url=https://notalot.org/aJXNuaxTnNy72HW5tjuODXN4 ver=0.0.2
-webtunnel [2001:db8:7171:e398:cd24:ab68:48e:3fcc]:443 96A26D40171B440A046AE38CFF78F4F5BB0C4F44 url=https://thegitcode.top/Chie1Yo9thoofa3 ver=0.0.1
+webtunnel [2001:db8:572a:383d:d918:cb4:271a:539b]:443 18C27C9850967FD4BF4188963C1AEBEC40807823 url=https://vps.hnapel.nl/LerOaJjjaz8Gmc6awaiDecJ4 ver=0.0.1
+webtunnel [2001:db8:dd08:c58f:3aa5:756b:30e4:ffd7]:443 7EBE64BFD07F84D7C315F2264DEDD824A62DB749 url=https://metastable03.mori.yuka.org/VbP7vU6eaxTu2XE9dKCXErVn ver=0.0.1
