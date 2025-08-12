@@ -1,2 +1,2 @@
-webtunnel [2001:db8:a8b5:9d82:9ae6:354f:671:e5da]:443 E3AE862BBB49EA5FACF4FDF09C8F1FE0D6F3CE4B url=https://d.img-cdn.net/mExFXMqeh1PcoDRRyz/ ver=0.0.2
-webtunnel [2001:db8:b469:7b74:f9fd:51e9:e5df:e350]:443 DD44F54966789F24B96A65986993F62A1E3728FC url=https://tox02.ky0uraku.xyz/oRvjLEFZwsFook1LeWIh2KLqrBbe ver=0.0.1
+webtunnel [2001:db8:4c9a:ffe8:70f8:d5af:a8f1:cf56]:443 DA1ECF055635C1A6ED7F5B5F36296A5E3015CE57 url=https://1axfa6xb.xoomlia.com/6qtxxkjw/ ver=0.0.1
+webtunnel [2001:db8:a8b5:9d82:9ae6:354f:671:e5da]:443 E3AE862BBB49EA5FACF4FDF09C8F1FE0D6F3CE4B url=https://d.img-cdn.net/mExFXMqeh1PcoDRRyz/ ver=0.0.1
