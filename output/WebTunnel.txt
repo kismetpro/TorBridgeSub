@@ -1,2 +1,2 @@
-webtunnel [2001:db8:1fc0:eebe:5e6e:d6ee:f53e:6889]:443 4A3859C089DF40A4FFADC10A79DFEBE4F8272535 url=https://verry.org/K2A2utQIMou4Ia2WjVseyDjV ver=0.0.2
 webtunnel [2001:db8:6281:baa0:afc0:9579:b303:59a7]:443 377CF6FCBFD2E57D0775EA6F2E8D3EF0D8CDD02F url=https://cryptomeanscryptography.club/TfDS3X50Rf3dR5x3Q3vLS25o ver=0.0.1
+webtunnel [2001:db8:8334:d3bf:4a0b:86b1:e2b6:a59c]:443 98455BF447EE853891921A5179B23C748F5DFCC7 url=https://e.img-cdn.net/BjUJxiqz5vi8E6WvDE/ ver=0.0.2
