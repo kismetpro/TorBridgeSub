@@ -1,2 +1,2 @@
-webtunnel [2001:db8:a981:762a:19f5:4d0f:daa8:d887]:443 7CA2F0AA1BFD007B8E9E744E6553F087483800B7 url=https://stop.rechts.jetzt/32DmToautru5QyLt8v3Q3piZ ver=0.0.2
-webtunnel [2001:db8:5e5b:6b4b:2bf3:6087:e7c5:b7f7]:443 3154681979E1CB737DB4A2D540C63F1B92B03995 url=https://tor1.woodie.dev/BXJGRHc8o82e4XheHZ2FCbeA ver=0.0.1
+webtunnel [2001:db8:3c2a:2d1c:6e06:549c:72ac:bfc0]:443 5F55B60FF2AEA996B5109BC338FC5F2BCA696F52 url=https://cloudstreamingcdn.website/Iej1bootoo9ef4A ver=0.0.1
+webtunnel [2001:db8:1069:9ea2:fb3e:623e:65ca:d05a]:443 517C1460F4B76DF1510749F4322F4E3E8F298A77 url=https://yourdomain/and/path ver=0.0.2
