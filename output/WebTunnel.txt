@@ -1,1 +1,2 @@
-webtunnel [2001:db8:afc8:4fe0:c021:5377:36bf:e9b7]:443 3BDD7036FAC9CC81ADBA39E88637D5EF87350F1C url=https://speedtest.qs.ee/dI6HDfnDLSUiFV0MaLMEtcmv ver=0.0.1
+webtunnel [2001:db8:5e5b:6b4b:2bf3:6087:e7c5:b7f7]:443 3154681979E1CB737DB4A2D540C63F1B92B03995 url=https://tor1.woodie.dev/BXJGRHc8o82e4XheHZ2FCbeA ver=0.0.1
+webtunnel [2001:db8:1995:c467:4662:af00:3b1e:b339]:443 7193498060A5F6547A991715BA6249A96E75EA23 url=https://nx3.nexusocean.link ver=0.0.1
