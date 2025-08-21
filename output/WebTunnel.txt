@@ -1,2 +1,2 @@
-webtunnel [2001:db8:a6c3:bdeb:9876:908f:cbf9:548b]:443 1F5056811B0E123CAD39AD0259F14F2880CA33F0 url=https://freesoftware.cloud/8675309 ver=0.0.1
-webtunnel [2001:db8:e5d9:591:6336:3b49:2de2:2035]:443 98CD2E1BE64F08D24668D7076E68C82CF7F37C50 url=https://rayneau.fr/algVwCMkMS2FDKE6VHHcLz7T ver=0.0.1
+webtunnel [2001:db8:f104:6599:bd56:6b9e:de19:9c5c]:443 84CD9FC75D2D777D93E08EC58293869DE374C67A url=https://webtunnel.defencegeeks.net/a36ZOiwo5I5qocKQ3SBJwNkT ver=0.0.1
+webtunnel [2001:db8:a634:bf27:a89e:4:2de:cb6]:443 8943BF53C9561C75A7302ED59575EF71E2B26562 url=https://fast.heelsn.eu/MsCfO3oc0rCsRkzDbZw8G8bT ver=0.0.2
