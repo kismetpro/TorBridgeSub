@@ -1,2 +1,2 @@
-webtunnel [2001:db8:ae49:afd7:ffdc:5de:b0b9:740c]:443 AFFCC2EBEF1955CBC7B9414B71AF733AD2EB78F2 url=https://onethirtyseven.chummer.online/pz26xsQ41QjRwkFSQ4m29vRx ver=0.0.1
-webtunnel [2001:db8:f7d3:5976:5f99:663b:3ba1:4e3a]:443 05D0531304F2DB161921D6D03CE38DB1CA2332D6 url=https://pod03.oneclickhost.eu/d0NbsV36v0Q4MDdDTs3ZhCCJ ver=0.0.2
+webtunnel [2001:db8:8d16:cb5b:d7f5:504b:8768:bdd3]:443 570FEB15763CC623146E8433ACA751948A6756D4 url=https://pl.808.re/SDglNGoixITem7ZHxQKXSscK ver=0.0.2
+webtunnel [2001:db8:ec38:ad64:f0fb:d7c2:2e26:4c4a]:443 5FC9FFCBA10611A1C17851A4B0BE1352FBC8909F url=https://redstarsl.cc/cme9f87hmdc8s7dychbsm897xy ver=0.0.1
