@@ -1,2 +1,2 @@
-webtunnel [2001:db8:eb48:18d1:b5ac:62d0:da55:f164]:443 B9B09EDFAEA3824D6258DB017002899F368C9943 url=https://pablo.iki.fi/H5cdG6c0tO7sDwZgAfBixLZB ver=0.0.1
-webtunnel [2001:db8:99de:8cdf:6bc:56f4:5280:3388]:443 ADCF258333077AC78754A42BC9F31C822C4F5644 url=https://3125.null-f.org/emgwJo18Bc6NbxdulAJOOGDf ver=0.0.1
+webtunnel [2001:db8:44:614b:42f5:f87c:7072:151]:443 F0C55D7B465C94F71A9A8F0479073BC02565DA36 url=https://quantentoast.de/CDgakmo0QO5Rvo2jRCtu4n9D ver=0.0.1
+webtunnel [2001:db8:ac6c:70d4:93a9:8772:dd93:e888]:443 4DE72BAFCE2B0F2C1D72304719D9D6867DF522ED url=https://meetsoftcode.click/oothexee7Hoote2 ver=0.0.1
