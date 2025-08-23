@@ -1,2 +1,2 @@
-webtunnel [2001:db8:db12:d3f0:335f:5cb1:f305:bdd1]:443 F0657A8419A7C14027CD79D33CA018D9487CB302 url=https://heresthespace.com/oAH2lLnop5li9wV ver=0.0.2
-webtunnel [2001:db8:908e:f294:fd7c:a021:f8a6:1638]:443 19E0AD706448E0314D968A9FB07636162F022AB5 url=https://a.private.st/gIgsXgvrwvJLUlpyl8ZsZ2C7 ver=0.0.2
+webtunnel [2001:db8:5ade:c44f:cc79:4b25:299d:c020]:443 1696D0A7C5994460B73E9A0FD853B3887388F6B0 servername=gosuslugi.ru url=http://lovelymeadow.mooo.com/api/v1/ ver=0.0.1
+webtunnel [2001:db8:f55d:9607:2c09:5e8c:32de:9a7f]:443 F1CF5DE3C36E879573C87295017AE25E60183EEA url=https://stream.lacka.day ver=0.0.1
