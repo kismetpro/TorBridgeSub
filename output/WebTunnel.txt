@@ -1,2 +1,2 @@
-webtunnel [2001:db8:5f24:a703:dbde:bec8:d285:d600]:443 EFCEA1B038931F73BA155FE1E5945BCEBD62212C url=https://ttt.enerhome.site/ttt_TOR_Cjy8764jkUtopY ver=0.0.1
-webtunnel [2001:db8:f3f8:1a33:dba0:17f6:35ce:24f3]:443 963668851C177DC162895A33F1473E32E1E4BE56 url=https://pod05.oneclickhost.eu/K5Fsvkz3SaWjVPm4i0vn5gIs ver=0.0.2
+webtunnel [2001:db8:5ade:c44f:cc79:4b25:299d:c020]:443 1696D0A7C5994460B73E9A0FD853B3887388F6B0 servername=gosuslugi.ru url=http://lovelymeadow.mooo.com/api/v1/ ver=0.0.1
+webtunnel [2001:db8:f55d:9607:2c09:5e8c:32de:9a7f]:443 F1CF5DE3C36E879573C87295017AE25E60183EEA url=https://stream.lacka.day ver=0.0.1
