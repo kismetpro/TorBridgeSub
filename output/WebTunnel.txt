@@ -1,2 +1,2 @@
-webtunnel [2001:db8:d265:8b2:d077:92d0:83b7:63f1]:443 402F8543DB594C4D4D13E5A2582BD6DDF4066B67 url=https://bg.808.re/3ZqdSLX2XTFuxbLEsZxZfLiZ ver=0.0.2
-webtunnel [2001:db8:9495:5c7:2f3:adb8:8deb:d79d]:443 ADA061056C8B60EEAC0C5A6B356D0F61F2C201C1 url=https://ghywebtunnel.zapto.org/qwertyuiopasdfghjklzxcvbnmMNBVCXZLKJHGFDSAQWERTUIOP0987654321 ver=0.0.2
+webtunnel [2001:db8:cb62:8f57:5a43:d9d0:a488:27e2]:443 16D0EF186DA080CE7A4968072920E08CA7729AED url=https://distributedcontent.website/ahxabaic5Opheir ver=0.0.1
+webtunnel [2001:db8:5ade:c44f:cc79:4b25:299d:c020]:443 1696D0A7C5994460B73E9A0FD853B3887388F6B0 servername=gosuslugi.ru url=http://lovelymeadow.mooo.com/api/v1/ ver=0.0.1
