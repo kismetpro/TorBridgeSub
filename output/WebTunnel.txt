@@ -1,2 +1,2 @@
-webtunnel [2001:db8:bc04:dcd9:32f5:eeb6:c275:4a87]:443 331633C9159C77524AB35BA9B91E2353C845EB1E url=https://piccadillywebtunnel.duckdns.org/JzwR0TZjIFr270esjw6mZFET ver=0.0.1
-webtunnel [2001:db8:12ff:2d55:9130:36a7:c49b:d1f4]:443 933C998EC827D1C17CC93D1292BBC41735867CF8 url=https://x7t2qctb.xoomlia.com/qzxrtfmu/ ver=0.0.1
+webtunnel [2001:db8:5556:4116:7011:c61d:f5bb:fc42]:443 8705A462A7F3AB0EB4548B4A2AD8EEEB1A202C2C url=https://capera.tel/H9AExWAVK0rWaHRuXZ8LZCb6 ver=0.0.1
+webtunnel [2001:db8:c302:702c:3189:89bf:286c:4d91]:443 7D0DDEB5E808655EDB6CD6252DBA5E061FE0AC07 url=https://ecdsa.tech/K3nMo5KZSByDA6KEJIbdbzHD ver=0.0.2
