@@ -1,2 +1,2 @@
-webtunnel [2001:db8:a434:2cba:55cb:15a6:1ece:1374]:443 630AABF104AEF8CFEC9AADA366F1955A1F7054BF url=https://3122.null-f.org/smBcouaVMbpJZiBeZudubD5p ver=0.0.1
-webtunnel [2001:db8:a379:1522:ea89:9c9d:59c8:1d5a]:443 B55A418B4F30181ED304EB2698EE58D283BEE5BF url=https://mirror.sanin.dev/f6VK8vgUKiq3HX6FHdbQpUaa ver=0.0.1
+webtunnel [2001:db8:cfe7:edf6:3a09:e2a3:668d:4e73]:443 F86E5FA2FD7FD0B358919C5396C22705F7911AE0 url=https://fastdeliverynetwork.website/Hai1aeJaipooliz ver=0.0.1
+webtunnel [2001:db8:aa65:68cf:bd2d:50fe:784f:1b24]:443 08B85FE2212DC548403FB684265D2B63B9C2C237 url=https://awsfft.cdn.leohearts.com/R3lHLJhq7kR54k2d9iDATWhz ver=0.0.1
