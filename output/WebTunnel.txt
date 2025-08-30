@@ -1,2 +1,2 @@
-webtunnel [2001:db8:9947:43ae:8228:97b7:7bd:2c2e]:443 6E6A3FCB09506A05CC8E0D05C7FEA1F5DA803412 url=https://nx2.nexusocean.link ver=0.0.1
-webtunnel [2001:db8:a436:6460:fa7b:318:4e8e:9de3]:443 F76C85011FD8C113AA00960BD9FC7F5B66F726A2 url=https://disobey.net/vM8i19mU4gvHOzRm33DaBNuM ver=0.0.2
+webtunnel [2001:db8:28ff:ae4f:c:9ef6:1722:ac46]:443 1098B4E153AB1666B4F63F48325A103FB005940F url=https://pod04.oneclickhost.eu/FeTyRXzPPAzwIjuxzWxwl09N ver=0.0.3
+webtunnel [2001:db8:62f5:a93:b18b:2110:9599:9c10]:443 337F12771B8FBA072121C0978B8D5722B567609B url=https://luhmann.ipv64.net/LceovFqcXy92Ji6Gx0rrUmmB ver=0.0.2
