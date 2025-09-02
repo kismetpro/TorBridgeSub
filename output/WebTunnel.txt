@@ -1,2 +1,2 @@
-webtunnel [2001:db8:32bd:a9e9:7284:cfc:21fb:e516]:443 367E04CFEC5816C8D05A673B27B3ECA16F733BCB url=https://recipes.nikolov.cz/gRBwTXcNlBI6y9aUnF4KSC1G ver=0.0.3
 webtunnel [2001:db8:aa16:aa07:b3:b4f0:a667:3f08]:443 775A648318DA1E1240EF0DEC038154B60696DE5B url=https://pod01.oneclickhost.eu/jLoIafiPpOBkJRJBN5mm6GPe ver=0.0.2
+webtunnel [2001:db8:aa16:aa07:b3:b4f0:a667:3f08]:443 775A648318DA1E1240EF0DEC038154B60696DE5B url=https://pod01.oneclickhost.eu/jLoIafiPpOBkJRJBN5mm6GPe ver=0.0.3
