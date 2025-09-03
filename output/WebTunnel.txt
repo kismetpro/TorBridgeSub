@@ -1,2 +1,2 @@
+webtunnel [2001:db8:259c:faa6:24a9:cce0:c60f:4642]:443 23958FC105E58061AFD2DECC61D363F28AB36490 url=https://pod02.oneclickhost.eu/lzcHh4sbo8bOTwkc4IwkSxNS ver=0.0.2
 webtunnel [2001:db8:259c:faa6:24a9:cce0:c60f:4642]:443 23958FC105E58061AFD2DECC61D363F28AB36490 url=https://pod02.oneclickhost.eu/lzcHh4sbo8bOTwkc4IwkSxNS ver=0.0.3
-webtunnel [2001:db8:1282:65f4:2ca9:5a32:1918:f31a]:443 EDF46C5F723F323521075F7F8D7E534700D1019E url=https://www.ryanwagner.phd/XObXIrY1IGy8FCmXJp4Rjb9A ver=0.0.3
