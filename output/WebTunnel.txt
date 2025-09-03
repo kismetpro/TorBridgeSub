@@ -1,2 +1,2 @@
-webtunnel [2001:db8:d3e0:e4e:ea8c:f13c:4b74:6c15]:443 ECE165E6510C15D4EA814D32B17D6A2E4A56938A url=https://cdn-46.triplebit.dev/beaXo6cho1eil2ai ver=0.0.2
 webtunnel [2001:db8:259c:faa6:24a9:cce0:c60f:4642]:443 23958FC105E58061AFD2DECC61D363F28AB36490 url=https://pod02.oneclickhost.eu/lzcHh4sbo8bOTwkc4IwkSxNS ver=0.0.2
+webtunnel [2001:db8:259c:faa6:24a9:cce0:c60f:4642]:443 23958FC105E58061AFD2DECC61D363F28AB36490 url=https://pod02.oneclickhost.eu/lzcHh4sbo8bOTwkc4IwkSxNS ver=0.0.3
