@@ -1,2 +1,2 @@
-webtunnel [2001:db8:741a:a577:74de:b52:54eb:b816]:443 773874BFA23A8A1A1DB8929A29889B81CEFEBDED url=https://www.langly.fr/yolo ver=0.0.1
-webtunnel [2001:db8:741a:a577:74de:b52:54eb:b816]:443 773874BFA23A8A1A1DB8929A29889B81CEFEBDED url=https://www.langly.fr/yolo ver=0.0.3
+webtunnel [2001:db8:266a:6ed5:8cad:e053:7e40:46af]:443 A52B79DCC4D26A358CEA0CE96AE7F63C182D14CA url=https://dallinbryce.com/AiBiyFEgV1Kh6jzNkBBUs3KP ver=0.0.3
+webtunnel [2001:db8:7470:8ef4:8b7f:2051:9c5d:5f5c]:443 43C74D321B92879B671F355B0F98AFECFB6B6186 url=https://jochenkessler.de/RKQFDaAZZXnjyFBXVbbTAz0K ver=0.0.2
