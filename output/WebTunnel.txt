@@ -1,2 +1,2 @@
-webtunnel [2001:db8:7470:8ef4:8b7f:2051:9c5d:5f5c]:443 43C74D321B92879B671F355B0F98AFECFB6B6186 url=https://jochenkessler.de/RKQFDaAZZXnjyFBXVbbTAz0K ver=0.0.2
-webtunnel [2001:db8:b655:ecbd:ddf5:b5fd:6b46:283d]:443 8BDAA4F662310875C87D63E4A4E98D887D11FAA5 url=https://jokester.cloud/2wZ0XqGbIavDahG9af5RCs7D ver=0.0.2
+webtunnel [2001:db8:1178:dc13:afaf:da8e:f592:398a]:443 07C77888D2367C25CA875E2174D9B225140940E9 url=https://nextcloud.privacy-vbox.de/iJmug5bRcsKeVv45h7a0fvkM ver=0.0.2
+webtunnel [2001:db8:cb0d:478a:6b61:1514:9757:53c1]:443 1FE8C81ED04C5F1707ED0761A32D3B1E27F64B6C url=https://blog.gus.computer/U7a5bfqOUsCsH4i4yue1744l ver=0.0.1
