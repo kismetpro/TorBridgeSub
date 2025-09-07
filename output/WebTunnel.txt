@@ -1,2 +1,2 @@
-webtunnel [2001:db8:1178:dc13:afaf:da8e:f592:398a]:443 07C77888D2367C25CA875E2174D9B225140940E9 url=https://nextcloud.privacy-vbox.de/iJmug5bRcsKeVv45h7a0fvkM ver=0.0.2
-webtunnel [2001:db8:cb0d:478a:6b61:1514:9757:53c1]:443 1FE8C81ED04C5F1707ED0761A32D3B1E27F64B6C url=https://blog.gus.computer/U7a5bfqOUsCsH4i4yue1744l ver=0.0.1
+webtunnel [2001:db8:1218:1de7:3a91:22cc:8d7f:197c]:443 DF343521735ABE129910A998817B3A93AA2390FE url=https://coellen.xyz ver=0.0.1
+webtunnel [2001:db8:a0a3:3921:d668:34a7:5a6a:90f]:443 DAEFF07E181A420069F9944C12BAA0DE6FD59B6D url=https://nthpyro.dev ver=0.0.3
