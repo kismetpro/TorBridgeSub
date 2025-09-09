@@ -1,2 +1,2 @@
-webtunnel [2001:db8:47e8:a46e:445b:2f6f:a8b0:605a]:443 D92B26A44D3EE84278F6F8205862A0917706819A url=https://albator.ravion.org ver=0.0.1
-webtunnel [2001:db8:4153:2734:a5fd:324a:77fe:7d3b]:443 91DE3D9DBAFB8A583CEE02448BBA8CADDE54735E url=https://5-ams.sports-streams.org/jdyLcFWUBl1jEjIkL2Bo2LCT ver=0.0.1
+webtunnel [2001:db8:cc50:fa:264f:d1b8:79a:6a81]:443 38C7ADB125A7AEA7A668C5AE300F6DCEA6BFB340 url=https://surf.mysticboarding.cz/S2vNtMmDc72E3uSmAroQaUyj ver=0.0.1
+webtunnel [2001:db8:4dce:3e6b:32a3:a054:788c:d7f0]:443 339281F7912780D8A7FB118A48A65FFBF92F043F url=https://mwumba.com/9f2jjnAR9LR1fInBy60tbS57 ver=0.0.2
