@@ -1,2 +1,2 @@
-webtunnel [2001:db8:5de4:df2c:316:a7d1:fee4:d128]:443 A35EA8E81BEC48C15960D497DD9024F430F6EA8F url=https://corazon.gateplanets.com/vt1F7zWiucmEjdoh ver=0.0.2
-webtunnel [2001:db8:77cb:5ce6:9995:7466:7ffa:b3f8]:443 770EA6412C8D3997ABFFF7173A3E53F1D3660167 url=https://shallotfarm.org/jcHgyp7m90iQr9QaVSprq1wP ver=0.0.3
+webtunnel [2001:db8:4aa4:78dd:6e09:a383:6c47:1802]:443 230C4BDC223F6A0494C41EB2DE2694B98C635D13 url=https://albator.ravion.org/L59vmiDPK0nthIw3cZtYSFev ver=0.0.1
+webtunnel [2001:db8:7a84:5591:3fb0:196f:d5d7:a272]:443 D92B26A44D3EE84278F6F8205862A0917706819A url=https://birdbox.fun ver=0.0.1
