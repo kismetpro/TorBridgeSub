@@ -1,2 +1,2 @@
-webtunnel [2001:db8:4aa4:78dd:6e09:a383:6c47:1802]:443 230C4BDC223F6A0494C41EB2DE2694B98C635D13 url=https://albator.ravion.org/L59vmiDPK0nthIw3cZtYSFev ver=0.0.1
-webtunnel [2001:db8:7a84:5591:3fb0:196f:d5d7:a272]:443 D92B26A44D3EE84278F6F8205862A0917706819A url=https://birdbox.fun ver=0.0.1
+webtunnel [2001:db8:cc50:fa:264f:d1b8:79a:6a81]:443 38C7ADB125A7AEA7A668C5AE300F6DCEA6BFB340 url=https://surf.mysticboarding.cz/S2vNtMmDc72E3uSmAroQaUyj ver=0.0.1
+webtunnel [2001:db8:4dce:3e6b:32a3:a054:788c:d7f0]:443 339281F7912780D8A7FB118A48A65FFBF92F043F url=https://mwumba.com/9f2jjnAR9LR1fInBy60tbS57 ver=0.0.2
