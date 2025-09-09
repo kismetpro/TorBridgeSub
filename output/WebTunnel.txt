@@ -1,2 +1,2 @@
-webtunnel [2001:db8:47e8:a46e:445b:2f6f:a8b0:605a]:443 D92B26A44D3EE84278F6F8205862A0917706819A url=https://albator.ravion.org ver=0.0.1
-webtunnel [2001:db8:4153:2734:a5fd:324a:77fe:7d3b]:443 91DE3D9DBAFB8A583CEE02448BBA8CADDE54735E url=https://5-ams.sports-streams.org/jdyLcFWUBl1jEjIkL2Bo2LCT ver=0.0.1
+webtunnel [2001:db8:4aa4:78dd:6e09:a383:6c47:1802]:443 230C4BDC223F6A0494C41EB2DE2694B98C635D13 url=https://albator.ravion.org/L59vmiDPK0nthIw3cZtYSFev ver=0.0.1
+webtunnel [2001:db8:7a84:5591:3fb0:196f:d5d7:a272]:443 D92B26A44D3EE84278F6F8205862A0917706819A url=https://birdbox.fun ver=0.0.1
