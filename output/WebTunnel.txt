@@ -1,2 +1,2 @@
-webtunnel [2001:db8:17e6:8669:9ae4:38cc:f71c:9577]:443 BF4A979C77EA858ED0726EDB8891CB8FB317187D url=https://galleria.bm-dataprotect.ch ver=0.0.3
 webtunnel [2001:db8:cb62:8f57:5a43:d9d0:a488:27e2]:443 16D0EF186DA080CE7A4968072920E08CA7729AED url=https://distributedcontent.website/ahxabaic5Opheir ver=0.0.3
+webtunnel [2001:db8:1178:dc13:afaf:da8e:f592:398a]:443 07C77888D2367C25CA875E2174D9B225140940E9 url=https://nextcloud.privacy-vbox.de/iJmug5bRcsKeVv45h7a0fvkM ver=0.0.2
