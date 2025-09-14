@@ -1,2 +1,2 @@
-webtunnel [2001:db8:35ed:b91c:d25f:5603:5c77:ebeb]:443 57C218E285D2AA1E7077859761421E9C62B9123E url=https://wtb007.unshakled.net:8443/4oeMXyIPcCVtKH7jFkEBvueX ver=0.0.3
-webtunnel [2001:db8:9450:e1df:979f:51be:3f36:3be0]:443 DEEEF397ABE6278F7A2378B27A1CC2DD1FB0B371 url=https://ggphtdomainonline.ru/r8DPGSQ2yXQimvBnhMvFZHdU ver=0.0.3
+webtunnel [2001:db8:ed78:c452:ced0:4bde:3f97:7936]:443 12CDCBAD16B1526D63D37F61201FCE83BDCA8B75 url=https://front-eu1.webdeliveryonl.click/7ScDHGDaBsqHtxB1B9GJ2sB7 ver=0.0.1
+webtunnel [2001:db8:17e6:8669:9ae4:38cc:f71c:9577]:443 BF4A979C77EA858ED0726EDB8891CB8FB317187D url=https://galleria.bm-dataprotect.ch ver=0.0.3
