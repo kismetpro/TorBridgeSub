@@ -1,2 +1,2 @@
-webtunnel [2001:db8:17e6:8669:9ae4:38cc:f71c:9577]:443 BF4A979C77EA858ED0726EDB8891CB8FB317187D url=https://galleria.bm-dataprotect.ch ver=0.0.3
-webtunnel [2001:db8:cb62:8f57:5a43:d9d0:a488:27e2]:443 16D0EF186DA080CE7A4968072920E08CA7729AED url=https://distributedcontent.website/ahxabaic5Opheir ver=0.0.3
+webtunnel [2001:db8:aa16:aa07:b3:b4f0:a667:3f08]:443 775A648318DA1E1240EF0DEC038154B60696DE5B url=https://pod01.oneclickhost.eu/jLoIafiPpOBkJRJBN5mm6GPe ver=0.0.3
+webtunnel [2001:db8:a923:d9c5:66c0:9674:6fb6:a526]:443 90F74ACFAE366AB7A442F4F6685E2179BD3A23FE url=https://samba.avhl.ru/L3S0hgHznlPUa0eGJXSedAj6 ver=0.0.3
