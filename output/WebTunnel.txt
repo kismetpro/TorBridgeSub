@@ -1,2 +1,2 @@
+webtunnel [2001:db8:7567:150e:f9a3:aa9b:b780:b8c8]:443 EA1BADD195B10F51E14A3A23444615F5F45CE9E0 url=https://oglilouhn.dedyn.io/36CjK6AA36FlAzjC3yMhoLCeqCIKHIWSGQ61w8uI7CwcirWBSJLw0oShwOn ver=0.0.3
 webtunnel [2001:db8:5e01:4e45:956e:bdcd:b32:d2f1]:443 F8D6810CEA0F34D806A66B5BD5B53B7B1509A3DA url=https://alden.page/iUS2jhRUixvSAS5neGoL0vAn ver=0.0.1
-webtunnel [2001:db8:6b89:9ff2:4e1d:4360:8a76:46b9]:443 1871FCBF5CB4E100E140EF5CE318EA199BEEABDC url=https://1-tll.sports-streams.org/Q51hpbrcqFy8HHD7qwBi102d ver=0.0.2
