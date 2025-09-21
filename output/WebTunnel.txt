@@ -1,2 +1,2 @@
-webtunnel [2001:db8:ae49:afd7:ffdc:5de:b0b9:740c]:443 AFFCC2EBEF1955CBC7B9414B71AF733AD2EB78F2 url=https://onethirtyseven.chummer.online/pz26xsQ41QjRwkFSQ4m29vRx ver=0.0.1
-webtunnel [2001:db8:d6b7:10ae:b5cf:811a:7f22:4596]:443 63BAB47B6DB9CA74AAC004E803F02E6E8D425E48 url=https://wt.skynetcloud.site/GtMuw9ifqfu3AAap4GVHHnBx ver=0.0.3
+webtunnel [2001:db8:8e54:c386:c25e:3697:e8f8:377d]:443 3EE00C6568B9DC9F15D1479CEB954FC8856366C3 url=https://cyfog.net/nOzNIJFUBQWlGRhmACMeclRw ver=0.0.3
+webtunnel [2001:db8:9495:5c7:2f3:adb8:8deb:d79d]:443 ADA061056C8B60EEAC0C5A6B356D0F61F2C201C1 url=https://ghywebtunnel.zapto.org/qwertyuiopasdfghjklzxcvbnmMNBVCXZLKJHGFDSAQWERTUIOP0987654321 ver=0.0.2
