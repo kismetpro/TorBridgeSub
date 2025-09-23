@@ -1,2 +1,2 @@
-webtunnel [2001:db8:2e6d:f72:cedd:e521:c579:44bf]:443 E2BC4AE4EDD648DC6736EFFEDC553759C981C5D2 url=https://wildnetwork.pro/vj987mhv9c6ng9sd876sgvn ver=0.0.1
 webtunnel [2001:db8:12ff:2d55:9130:36a7:c49b:d1f4]:443 933C998EC827D1C17CC93D1292BBC41735867CF8 url=https://x7t2qctb.xoomlia.com/qzxrtfmu/ ver=0.0.1
+webtunnel [2001:db8:c302:702c:3189:89bf:286c:4d91]:443 7D0DDEB5E808655EDB6CD6252DBA5E061FE0AC07 url=https://ecdsa.tech/K3nMo5KZSByDA6KEJIbdbzHD ver=0.0.2
