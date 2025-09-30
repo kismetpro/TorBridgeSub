@@ -1,2 +1,1 @@
-webtunnel [2001:db8:ba30:5074:c2e6:663:42e8:de84]:443 6C3C97ECF9D5984838CCFA4774C25E281E87E9D6 url=https://dns.rawbit.ninja/jbsEXCoUvbZLbd3taETimEfM ver=0.0.2
-webtunnel [2001:db8:62f5:a93:b18b:2110:9599:9c10]:443 337F12771B8FBA072121C0978B8D5722B567609B url=https://luhmann.ipv64.net/LceovFqcXy92Ji6Gx0rrUmmB ver=0.0.2
+webtunnel [2001:db8:8334:d3bf:4a0b:86b1:e2b6:a59c]:443 98455BF447EE853891921A5179B23C748F5DFCC7 url=https://e.img-cdn.net/BjUJxiqz5vi8E6WvDE/ ver=0.0.2
