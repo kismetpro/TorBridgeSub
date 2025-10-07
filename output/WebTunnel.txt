@@ -1,2 +1,2 @@
-webtunnel [2001:db8:1069:9ea2:fb3e:623e:65ca:d05a]:443 517C1460F4B76DF1510749F4322F4E3E8F298A77 url=https://yourdomain/and/path ver=0.0.2
 webtunnel [2001:db8:a0a3:3921:d668:34a7:5a6a:90f]:443 DAEFF07E181A420069F9944C12BAA0DE6FD59B6D url=https://nthpyro.dev ver=0.0.3
+webtunnel [2001:db8:4fe2:49d2:2b7d:8576:5ede:e177]:443 C9AB6F207432161589F1B994F44FFE28FBF211E2 url=https://www.jarlaxle.de/wzZhcKoNURYF5JUssKhC25Cg ver=0.0.2
