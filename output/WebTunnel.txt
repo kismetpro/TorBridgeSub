@@ -1,2 +1,2 @@
-webtunnel [2001:db8:35ed:b91c:d25f:5603:5c77:ebeb]:443 57C218E285D2AA1E7077859761421E9C62B9123E url=https://wtb007.unshakled.net:8443/4oeMXyIPcCVtKH7jFkEBvueX ver=0.0.3
 webtunnel [2001:db8:9450:e1df:979f:51be:3f36:3be0]:443 DEEEF397ABE6278F7A2378B27A1CC2DD1FB0B371 url=https://ggphtdomainonline.ru/r8DPGSQ2yXQimvBnhMvFZHdU ver=0.0.3
+webtunnel [2001:db8:dfeb:8189:b107:7be4:65a0:3f64]:443 D35BF743719A3110FD895C8356056337D7D93FD8 url=https://pink.coyp.us/ScayDKFxVp1WUV47Sf1Mtm57 ver=0.0.2
