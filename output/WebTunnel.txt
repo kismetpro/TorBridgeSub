@@ -1,2 +1,2 @@
-webtunnel [2001:db8:b469:7b74:f9fd:51e9:e5df:e350]:443 DD44F54966789F24B96A65986993F62A1E3728FC url=https://tox02.ky0uraku.xyz/oRvjLEFZwsFook1LeWIh2KLqrBbe ver=0.0.3
-webtunnel [2001:db8:2638:b1a0:f262:490b:f15c:6798]:443 FFBAE1B459A6CB5C6751F9BE72284EAB9E36CD0F url=https://steuern-sind-raub.ch/rohzaaSae8meith4oo ver=0.0.3
+webtunnel [2001:db8:35ed:b91c:d25f:5603:5c77:ebeb]:443 57C218E285D2AA1E7077859761421E9C62B9123E url=https://wtb007.unshakled.net:8443/4oeMXyIPcCVtKH7jFkEBvueX ver=0.0.3
+webtunnel [2001:db8:9450:e1df:979f:51be:3f36:3be0]:443 DEEEF397ABE6278F7A2378B27A1CC2DD1FB0B371 url=https://ggphtdomainonline.ru/r8DPGSQ2yXQimvBnhMvFZHdU ver=0.0.3
