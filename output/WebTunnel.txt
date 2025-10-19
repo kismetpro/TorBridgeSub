@@ -1,1 +1,2 @@
-webtunnel [2001:db8:afc8:4fe0:c021:5377:36bf:e9b7]:443 3BDD7036FAC9CC81ADBA39E88637D5EF87350F1C url=https://speedtest.qs.ee/dI6HDfnDLSUiFV0MaLMEtcmv ver=0.0.1
+webtunnel [2001:db8:cb0d:478a:6b61:1514:9757:53c1]:443 1FE8C81ED04C5F1707ED0761A32D3B1E27F64B6C url=https://blog.gus.computer/U7a5bfqOUsCsH4i4yue1744l ver=0.0.3
+webtunnel [2001:db8:a981:762a:19f5:4d0f:daa8:d887]:443 7CA2F0AA1BFD007B8E9E744E6553F087483800B7 url=https://stop.rechts.jetzt/32DmToautru5QyLt8v3Q3piZ ver=0.0.2
