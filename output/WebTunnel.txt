@@ -1,2 +1,2 @@
-webtunnel [2001:db8:ae49:afd7:ffdc:5de:b0b9:740c]:443 AFFCC2EBEF1955CBC7B9414B71AF733AD2EB78F2 url=https://onethirtyseven.chummer.online/pz26xsQ41QjRwkFSQ4m29vRx ver=0.0.1
 webtunnel [2001:db8:6c48:eb68:9245:c49c:1a50:69ed]:443 FD1850CCD01FDD5829300DAD1DDC775D06742C80 url=https://www.kfc911.top/ExidfybC6zmVdKPo0t6tNjEXRtRZ7XvV ver=0.0.3
+webtunnel [2001:db8:d6b7:10ae:b5cf:811a:7f22:4596]:443 63BAB47B6DB9CA74AAC004E803F02E6E8D425E48 url=https://wt.skynetcloud.site/GtMuw9ifqfu3AAap4GVHHnBx ver=0.0.3
