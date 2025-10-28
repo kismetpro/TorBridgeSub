@@ -1,2 +1,2 @@
-webtunnel [2001:db8:e569:2f63:fc9:6d12:1572:bedd]:443 291666C8F9E8736771E046DAC04FA4DA35F89467 url=https://deimos.fedfe1.xyz/k2deAz76zzWAwtSOusXE ver=0.0.3
-webtunnel [2001:db8:8a96:b122:e199:d511:c55e:6bcb]:443 F5038BA595B75BD87A295CA6060214CCD4280F2F url=https://bridges.lovethosetrains.com/iwCXEhbdY7ErwP8J4MRavyAj ver=0.0.3
+webtunnel [2001:db8:4214:3f1:32a8:7914:4181:1321]:443 1CADB5C035EAA3D9D194413BE7E43884D1BFF780 url=https://tor.qinsbro.com/KPS0undKs3dFa7KFpWrunOuT ver=0.0.3
+webtunnel [2001:db8:241b:a34e:64af:268f:ba0f:4b65]:443 233ABF8B1A65676DD31A4EE644635FF87D19E171 url=https://2cold.independentlyreview.com/Tor_WebTunnel ver=0.0.3
