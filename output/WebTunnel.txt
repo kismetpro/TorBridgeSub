@@ -1,2 +1,2 @@
-webtunnel [2001:db8:86c1:8ed7:d07b:e370:d094:239e]:443 EEC3B74384FF65C03CE3308AC8911C1A70FD6A57 url=https://kochenjessler.de/ayaSmSql2aohr1GYPsHAc8w9 ver=0.0.2
-webtunnel [2001:db8:ba30:5074:c2e6:663:42e8:de84]:443 6C3C97ECF9D5984838CCFA4774C25E281E87E9D6 url=https://dns.rawbit.ninja/jbsEXCoUvbZLbd3taETimEfM ver=0.0.2
+webtunnel [2001:db8:62f5:a93:b18b:2110:9599:9c10]:443 337F12771B8FBA072121C0978B8D5722B567609B url=https://luhmann.ipv64.net/LceovFqcXy92Ji6Gx0rrUmmB ver=0.0.2
+webtunnel [2001:db8:ba30:5074:c2e6:663:42e8:de84]:443 6C3C97ECF9D5984838CCFA4774C25E281E87E9D6 url=https://dns.rawbit.ninja/jbsEXCoUvbZLbd3taETimEfM ver=0.0.3
