@@ -1,2 +1,2 @@
-webtunnel [2001:db8:a981:762a:19f5:4d0f:daa8:d887]:443 7CA2F0AA1BFD007B8E9E744E6553F087483800B7 url=https://stop.rechts.jetzt/32DmToautru5QyLt8v3Q3piZ ver=0.0.2
-webtunnel [2001:db8:a379:1522:ea89:9c9d:59c8:1d5a]:443 B55A418B4F30181ED304EB2698EE58D283BEE5BF url=https://mirror.sanin.dev/f6VK8vgUKiq3HX6FHdbQpUaa ver=0.0.3
+webtunnel [2001:db8:e5bc:8e9c:ad33:b8fd:9144:51c1]:443 A5B806ACD121818224F9C6E6FAB391C82DA6006F url=https://cominonstrong.com/prlkxZ2jipAvSPfHouC118kS ver=0.0.2
+webtunnel [2001:db8:4dce:3e6b:32a3:a054:788c:d7f0]:443 339281F7912780D8A7FB118A48A65FFBF92F043F url=https://mwumba.com/9f2jjnAR9LR1fInBy60tbS57 ver=0.0.2
