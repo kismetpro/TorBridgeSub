@@ -1,2 +1,2 @@
+webtunnel [2001:db8:aa65:68cf:bd2d:50fe:784f:1b24]:443 08B85FE2212DC548403FB684265D2B63B9C2C237 url=https://awsfft.cdn.leohearts.com/R3lHLJhq7kR54k2d9iDATWhz ver=0.0.3
 webtunnel [2001:db8:86c1:8ed7:d07b:e370:d094:239e]:443 EEC3B74384FF65C03CE3308AC8911C1A70FD6A57 url=https://kochenjessler.de/ayaSmSql2aohr1GYPsHAc8w9 ver=0.0.2
-webtunnel [2001:db8:3845:2a14:bb9:481c:73c9:d237]:443 337F12771B8FBA072121C0978B8D5722B567609B url=https://www.cafe-kantholz.de/LceovFqcXy92Ji6Gx0rrUmmB ver=0.0.3
