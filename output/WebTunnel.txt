@@ -1,2 +1,2 @@
-webtunnel [2001:db8:259c:faa6:24a9:cce0:c60f:4642]:443 23958FC105E58061AFD2DECC61D363F28AB36490 url=https://pod02.oneclickhost.eu/lzcHh4sbo8bOTwkc4IwkSxNS ver=0.0.3
-webtunnel [2001:db8:3d7a:deef:9427:e3ad:6a76:5e86]:443 0C1BDD359BDAF285BA5F226CB20E0D7436EE70CD url=https://meow.sillykittens.net/wFDQ0yckFU9KTx4qTmXLFMWB ver=0.0.3
+webtunnel [2001:db8:cfe7:edf6:3a09:e2a3:668d:4e73]:443 F86E5FA2FD7FD0B358919C5396C22705F7911AE0 url=https://fastdeliverynetwork.website/Hai1aeJaipooliz ver=0.0.3
+webtunnel [2001:db8:b91b:9b4c:8003:9671:eee:7f0a]:443 B80A80398FDE7F94C6C72F9429D8EA128663B780 url=https://ams1.cryptomeanscryptography.club/x50fjFEcivPj42GQKfOOnyw3 ver=0.0.3
