@@ -1,2 +1,2 @@
-webtunnel [2001:db8:e5bc:8e9c:ad33:b8fd:9144:51c1]:443 A5B806ACD121818224F9C6E6FAB391C82DA6006F url=https://cominonstrong.com/prlkxZ2jipAvSPfHouC118kS ver=0.0.2
-webtunnel [2001:db8:4dce:3e6b:32a3:a054:788c:d7f0]:443 339281F7912780D8A7FB118A48A65FFBF92F043F url=https://mwumba.com/9f2jjnAR9LR1fInBy60tbS57 ver=0.0.2
+webtunnel [2001:db8:5e01:4e45:956e:bdcd:b32:d2f1]:443 F8D6810CEA0F34D806A66B5BD5B53B7B1509A3DA url=https://alden.page/iUS2jhRUixvSAS5neGoL0vAn ver=0.0.1
+webtunnel [2001:db8:6b89:9ff2:4e1d:4360:8a76:46b9]:443 1871FCBF5CB4E100E140EF5CE318EA199BEEABDC url=https://1-tll.sports-streams.org/Q51hpbrcqFy8HHD7qwBi102d ver=0.0.2
