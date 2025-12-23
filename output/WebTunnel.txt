@@ -1,2 +1,2 @@
-webtunnel [2001:db8:c5f0:7cab:74fe:d304:9ae9:531b]:443 991A8196069D1F5B8D33A0C3F462F294C0178C3C url=https://cdn.060914.xyz/JIQxbZL2eDF8FGMtBfJaLEem ver=0.0.3
 webtunnel [2001:db8:ae03:9e61:9e65:cce8:fdb6:66a8]:443 CD0DFB72DE3124704AEA1BEF3A2CCD62347F6376 url=https://www2.shallotfarm.org/gKOwKgm0McUdTydo3boBiFFM ver=0.0.3
+webtunnel [2001:db8:6c93:f13b:2c4a:c23a:6e2:bdff]:443 E4535812FC6456C0B5C8CC6C2CF9337D87A98B3D url=https://1-fra.sports-streams.org/9DAwZ4fqTh6vJWSj0j376God ver=0.0.1
