@@ -1,2 +1,2 @@
-webtunnel [2001:db8:d356:23c3:ee0d:5a35:271a:30e]:443 40254C3F76F126C8D30C5FCEEAF9CE88C335FE0C url=https://1-cvt.sports-streams.org/4amFA6F3SRQ1HU47U5jSrLPU ver=0.0.1
-webtunnel [2001:db8:c5f0:7cab:74fe:d304:9ae9:531b]:443 991A8196069D1F5B8D33A0C3F462F294C0178C3C url=https://cdn.060914.xyz/JIQxbZL2eDF8FGMtBfJaLEem ver=0.0.3
+webtunnel [2001:db8:60bb:a5e8:aa6b:6472:ab33:27b7]:443 DEC83BCC768236DA5F07E377B4A5C6A7E2638B18 url=https://oneforty.chummer.online/e2xrr8hjW2rRjUMsb6jdNoj6 ver=0.0.1
+webtunnel [2001:db8:ecb1:103a:4cd2:9747:f08d:757a]:443 7221AA7B6146D7762963D4DFB5F86618C48FE290 url=https://c.2jl.cc ver=0.0.3
