@@ -1,2 +1,2 @@
-webtunnel [2001:db8:47be:2940:b47f:d38d:f1b6:7232]:443 CFBDFCA1B857BAADBB302FF446AA1E4ADB6CB410 url=https://us02-lax.beijing.st/ohmygodohmygodamerikawow ver=0.0.3
 webtunnel [2001:db8:92ce:dea9:9efb:61f8:b7e2:4971]:443 291666C8F9E8736771E046DAC04FA4DA35F89467 url=https://deimos.fedfe1.xyz/13m07GMVvrE78vs1VZXl ver=0.0.3
+webtunnel [2001:db8:7ed3:a85b:fd0f:d2a8:ebbe:a588]:443 A82B7060501179D6131AF6BCCD5DF4EA5F0A0D59 url=https://kochenjessler.de/RhV075MQmlMKQXZ8Bei5AOeQ ver=0.0.3
