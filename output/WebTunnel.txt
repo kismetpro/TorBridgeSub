@@ -1,2 +1,2 @@
-webtunnel [2001:db8:840a:a2c2:644c:3c92:be5e:7002]:443 3AC6EF6F292072B04D6AA07BBDBE7FBB32B2B4E0 url=https://miau.sillykittens.net/4incE0XB3Pm13wHctbckvfhP ver=0.0.3
-webtunnel [2001:db8:d3e0:e4e:ea8c:f13c:4b74:6c15]:443 ECE165E6510C15D4EA814D32B17D6A2E4A56938A url=https://cdn-46.triplebit.dev/beaXo6cho1eil2ai ver=0.0.2
+webtunnel [2001:db8:dd08:c58f:3aa5:756b:30e4:ffd7]:443 7EBE64BFD07F84D7C315F2264DEDD824A62DB749 url=https://metastable03.mori.yuka.org/VbP7vU6eaxTu2XE9dKCXErVn ver=0.0.3
+webtunnel [2001:db8:bb8a:b08:bdeb:bb41:5aa6:835c]:443 5F796EF955D26DF9A807B0D94902C4CE756ABEC9 url=https://t.timdinh.com/d8a8ea35e2647f07bebb804ae235a1ecb0e54ac6097246f0 ver=0.0.3
