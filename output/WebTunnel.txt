@@ -1,2 +1,2 @@
+webtunnel [2001:db8:63b4:6bd7:a357:7858:898e:718c]:443 059AEB126918A33B8246E8136D565FF57753D5CF url=https://alwaysnewbie.eu.org/homesweethome ver=0.0.2
 webtunnel [2001:db8:fbfa:48b4:5520:53e6:24b4:eca0]:443 93807A85521915D7D2BA17725C08AC39035D1741 url=https://web.localenby.is/HmlgNcBbNgRJw862bJVxZRes ver=0.0.3
-webtunnel [2001:db8:b655:ecbd:ddf5:b5fd:6b46:283d]:443 8BDAA4F662310875C87D63E4A4E98D887D11FAA5 url=https://jokester.cloud/2wZ0XqGbIavDahG9af5RCs7D ver=0.0.2
