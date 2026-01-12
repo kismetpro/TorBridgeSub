@@ -1,1 +1,2 @@
-webtunnel [2001:db8:35ed:b91c:d25f:5603:5c77:ebeb]:443 57C218E285D2AA1E7077859761421E9C62B9123E url=https://wtb007.unshakled.net:8443/4oeMXyIPcCVtKH7jFkEBvueX ver=0.0.3
+webtunnel [2001:db8:8986:42b5:a784:ef30:f5cd:5e26]:443 07C77888D2367C25CA875E2174D9B225140940E9 url=https://nextcloud.privacy-vbox.de/iJmug5bRcsKeVv45h7a0fvkL ver=0.0.3
+webtunnel [2001:db8:ed78:c452:ced0:4bde:3f97:7936]:443 12CDCBAD16B1526D63D37F61201FCE83BDCA8B75 url=https://front-eu1.webdeliveryonl.click/7ScDHGDaBsqHtxB1B9GJ2sB7 ver=0.0.1
