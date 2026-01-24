@@ -1,2 +1,2 @@
-webtunnel [2001:db8:60bb:a5e8:aa6b:6472:ab33:27b7]:443 DEC83BCC768236DA5F07E377B4A5C6A7E2638B18 url=https://oneforty.chummer.online/e2xrr8hjW2rRjUMsb6jdNoj6 ver=0.0.1
-webtunnel [2001:db8:ecb1:103a:4cd2:9747:f08d:757a]:443 7221AA7B6146D7762963D4DFB5F86618C48FE290 url=https://c.2jl.cc ver=0.0.3
+webtunnel [2001:db8:df91:d45f:47f9:2d09:3a9a:7c22]:443 A633EAF9A7DC0E715183359C38E4DAE4515D1EF7 url=https://nothing.localenby.is/srgV09L4fn4kdkoE0vP92nvK ver=0.0.3
+webtunnel [2001:db8:8e1c:d9d4:e257:62a:70db:6e1d]:443 9BB2917363960C7D8B93B44E1B5575A1539E3839 url=https://productionassets.website/aiquee1ueRoo7ac ver=0.0.3
