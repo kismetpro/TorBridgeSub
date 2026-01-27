@@ -1,1 +1,1 @@
-webtunnel [2001:db8:4b07:feeb:5140:7bc5:498:7ef0]:443 1DCAC79A588BBA559925BCFE8C0984F576D42983 url=https://stop.rechts.jetzt/0T836FGJx31XeLrdIFMDsqb7 ver=0.0.3
+webtunnel [2001:db8:3845:2a14:bb9:481c:73c9:d237]:443 337F12771B8FBA072121C0978B8D5722B567609B url=https://www.cafe-kantholz.de/LceovFqcXy92Ji6Gx0rrUmmB ver=0.0.3
