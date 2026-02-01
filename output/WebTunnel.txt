@@ -1,2 +1,2 @@
-webtunnel [2001:db8:e40f:2e7c:eaa0:a693:c904:6780]:443 63BC6E53914453BF8C4355082EC907E72E68B7C4 url=https://anoni.net/sgs/lol ver=0.0.3
 webtunnel [2001:db8:7c03:79e9:6937:2f0d:862:f3ef]:443 344BDF5CD95800CC9A9A53E1A3F15C82F538DDA3 url=staging.nexusocean.link ver=0.0.3
+webtunnel [2001:db8:266a:6ed5:8cad:e053:7e40:46af]:443 257CC5D70372447738F54E0C68D73639AF8ABA36 url=https://dallinbryce.com/AiBiyFEgV1Kh6jzNkBBUs3KP ver=0.0.3
